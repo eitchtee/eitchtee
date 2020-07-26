@@ -1,16 +1,15 @@
-### Hi there 👋
+> Under construction / Em construção
 
-<!--
-**eitchtee/eitchtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👨‍💻 Herculino de Miranda Trotta Neto</h1>
 
-Here are some ideas to get you started:
+<h4> 🌐 <a href="https://eitchtee.github.io">eitchtee.github.io</a> </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </p>
+
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eitchtee&hide_title=true" alt="languages" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eitchtee&label=👀" alt="eitchtee" /> </p>
