@@ -2,10 +2,8 @@
 
 <p align="center">
 <a href= "https://herculino.com"><img src="https://img.shields.io/badge/website-0076D6.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
-<a href= "mailto:herculinotrotta@gmail.com"><img src="https://img.shields.io/badge/-e--mail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href= "mailto:hello@herculino.com"><img src="https://img.shields.io/badge/-e--mail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href= "https://www.linkedin.com/in/htrotta/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href= "https://stackoverflow.com/users/3042266/herculino-trotta"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href= "https://www.instagram.com/htrotta_/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
