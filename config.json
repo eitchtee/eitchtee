@@ -1,19 +1,20 @@
 {
     "username": "eitchtee",
     "header": "herculino@trotta",
-    "name": "Herculino Trotta",
-    "uptime": "25 years",
-    "location": "Brazil",
+    "birthday": "1997-10-18",
+    "host": "Alcance Innovation Consulting",
+    "kernel": "Software Engineer",
+    "location": "Muriaé, MG, Brazil",
     "languages": {
-        "code": "Python, JS, TS",
-        "markup": "HTML, CSS, SQL",
-        "human": "PT-BR, English"
+        "code": "Python, Javascript",
+        "markup": "HTML, CSS",
+        "human": "Portuguese, English"
     },
     "stack": {
         "backend": "Django, FastAPI",
-        "frontend": "HTMX, Alpine.js",
+        "frontend": "HTMX, Alpine.js, Tailwind, DaisyUI",
         "database": "PostgreSQL",
-        "infra": "Docker, Kubernetes"
+        "infra": "Docker"
     },
     "contact": {
         "website": {

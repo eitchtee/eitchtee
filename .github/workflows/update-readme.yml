@@ -21,7 +21,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests==2.32.5 python-dateutil==2.9.0.post0
 
       - name: Generate README
         env:
@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md
+          git add README.md cache/
           git diff --quiet --staged || git commit -m "Update README with latest GitHub stats"
           git push
