@@ -1,0 +1,32 @@
+{
+    "username": "eitchtee",
+    "header": "herculino@trotta",
+    "name": "Herculino Trotta",
+    "uptime": "25 years",
+    "location": "Brazil",
+    "languages": {
+        "code": "Python, JS, TS",
+        "markup": "HTML, CSS, SQL",
+        "human": "PT-BR, English"
+    },
+    "stack": {
+        "backend": "Django, FastAPI",
+        "frontend": "HTMX, Alpine.js",
+        "database": "PostgreSQL",
+        "infra": "Docker, Kubernetes"
+    },
+    "contact": {
+        "website": {
+            "label": "herculino.com",
+            "url": "https://herculino.com"
+        },
+        "email": {
+            "label": "hello@herculino.com",
+            "url": "mailto:hello@herculino.com"
+        },
+        "linkedin": {
+            "label": "herculinotrotta",
+            "url": "https://www.linkedin.com/in/herculinotrotta/"
+        }
+    }
+}
