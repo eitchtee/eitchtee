@@ -90,7 +90,7 @@
     "myCommits": 43
   },
   "eitchtee/eitchtee": {
-    "commitCount": 26,
+    "commitCount": 27,
     "additions": 991,
     "deletions": 220,
     "myCommits": 12
@@ -240,9 +240,9 @@
     "myCommits": 13
   },
   "eitchtee/loterias.json": {
-    "commitCount": 9,
-    "additions": 448969,
-    "deletions": 1,
-    "myCommits": 3
+    "commitCount": 17,
+    "additions": 9128470,
+    "deletions": 309463,
+    "myCommits": 10
   }
 }
