@@ -90,7 +90,7 @@
     "myCommits": 43
   },
   "eitchtee/eitchtee": {
-    "commitCount": 59,
+    "commitCount": 60,
     "additions": 991,
     "deletions": 220,
     "myCommits": 12
@@ -120,10 +120,10 @@
     "myCommits": 28
   },
   "eitchtee/gcal2todoist": {
-    "commitCount": 105,
-    "additions": 2638,
-    "deletions": 1453,
-    "myCommits": 105
+    "commitCount": 112,
+    "additions": 2778,
+    "deletions": 1640,
+    "myCommits": 112
   },
   "eitchtee/UFOP_scrapper": {
     "commitCount": 7,
