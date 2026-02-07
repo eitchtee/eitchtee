@@ -90,7 +90,7 @@
     "myCommits": 43
   },
   "eitchtee/eitchtee": {
-    "commitCount": 13,
+    "commitCount": 62,
     "additions": 991,
     "deletions": 220,
     "myCommits": 12
@@ -120,10 +120,10 @@
     "myCommits": 28
   },
   "eitchtee/gcal2todoist": {
-    "commitCount": 105,
-    "additions": 2638,
-    "deletions": 1453,
-    "myCommits": 105
+    "commitCount": 113,
+    "additions": 2780,
+    "deletions": 1641,
+    "myCommits": 113
   },
   "eitchtee/UFOP_scrapper": {
     "commitCount": 7,
@@ -210,10 +210,10 @@
     "myCommits": 6
   },
   "eitchtee/WYGIWYH": {
-    "commitCount": 1539,
-    "additions": 273720,
-    "deletions": 152308,
-    "myCommits": 1388
+    "commitCount": 1645,
+    "additions": 297167,
+    "deletions": 156987,
+    "myCommits": 1452
   },
   "eitchtee/VCM": {
     "commitCount": 26,
@@ -238,5 +238,11 @@
     "additions": 1284,
     "deletions": 252,
     "myCommits": 13
+  },
+  "eitchtee/loterias.json": {
+    "commitCount": 17,
+    "additions": 9128470,
+    "deletions": 309463,
+    "myCommits": 10
   }
 }
