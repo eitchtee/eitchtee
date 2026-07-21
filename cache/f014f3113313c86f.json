@@ -90,7 +90,7 @@
     "myCommits": 43
   },
   "eitchtee/eitchtee": {
-    "commitCount": 226,
+    "commitCount": 227,
     "additions": 1014,
     "deletions": 238,
     "myCommits": 14
@@ -252,9 +252,9 @@
     "myCommits": 7
   },
   "eitchtee/Argus": {
-    "commitCount": 31,
-    "additions": 31441,
-    "deletions": 1520,
-    "myCommits": 31
+    "commitCount": 35,
+    "additions": 45378,
+    "deletions": 2055,
+    "myCommits": 35
   }
 }
