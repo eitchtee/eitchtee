@@ -90,7 +90,7 @@
     "myCommits": 43
   },
   "eitchtee/eitchtee": {
-    "commitCount": 295,
+    "commitCount": 296,
     "additions": 1014,
     "deletions": 238,
     "myCommits": 14
@@ -240,10 +240,10 @@
     "myCommits": 13
   },
   "eitchtee/loterias.json": {
-    "commitCount": 202,
-    "additions": 9128523,
-    "deletions": 309464,
-    "myCommits": 12
+    "commitCount": 203,
+    "additions": 0,
+    "deletions": 0,
+    "myCommits": 0
   },
   "eitchtee/busybee": {
     "commitCount": 7,
@@ -252,10 +252,10 @@
     "myCommits": 7
   },
   "eitchtee/Argus": {
-    "commitCount": 132,
-    "additions": 87471,
-    "deletions": 12354,
-    "myCommits": 132
+    "commitCount": 136,
+    "additions": 93036,
+    "deletions": 12504,
+    "myCommits": 136
   },
   "eitchtee/ContextBeGone": {
     "commitCount": 3,
@@ -282,27 +282,27 @@
     "myCommits": 15
   },
   "eitchtee/Via_apps": {
-    "commitCount": 2,
-    "additions": 7180,
-    "deletions": 0,
-    "myCommits": 2
+    "commitCount": 3,
+    "additions": 7184,
+    "deletions": 4,
+    "myCommits": 3
   },
   "eitchtee/Via_browser": {
-    "commitCount": 4,
-    "additions": 2898,
-    "deletions": 35,
-    "myCommits": 4
+    "commitCount": 8,
+    "additions": 3099,
+    "deletions": 56,
+    "myCommits": 8
   },
   "eitchtee/Via": {
-    "commitCount": 2,
-    "additions": 10810,
+    "commitCount": 3,
+    "additions": 10864,
     "deletions": 12,
-    "myCommits": 2
+    "myCommits": 3
   },
   "eitchtee/ViaFCMRelay": {
-    "commitCount": 1,
-    "additions": 3022,
+    "commitCount": 2,
+    "additions": 3023,
     "deletions": 0,
-    "myCommits": 1
+    "myCommits": 2
   }
 }
