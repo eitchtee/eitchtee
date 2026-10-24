@@ -90,7 +90,7 @@
     "myCommits": 43
   },
   "eitchtee/eitchtee": {
-    "commitCount": 321,
+    "commitCount": 322,
     "additions": 1014,
     "deletions": 238,
     "myCommits": 14
@@ -216,10 +216,10 @@
     "myCommits": 1647
   },
   "eitchtee/VCM": {
-    "commitCount": 32,
-    "additions": 4527,
-    "deletions": 1387,
-    "myCommits": 32
+    "commitCount": 38,
+    "additions": 4682,
+    "deletions": 1493,
+    "myCommits": 38
   },
   "eitchtee/teste": {
     "commitCount": 1,
@@ -240,16 +240,16 @@
     "myCommits": 13
   },
   "eitchtee/loterias.json": {
-    "commitCount": 224,
-    "additions": 0,
-    "deletions": 0,
-    "myCommits": 0
+    "commitCount": 225,
+    "additions": 9128523,
+    "deletions": 309464,
+    "myCommits": 12
   },
   "eitchtee/busybee": {
-    "commitCount": 7,
-    "additions": 1820,
-    "deletions": 51,
-    "myCommits": 7
+    "commitCount": 9,
+    "additions": 1857,
+    "deletions": 64,
+    "myCommits": 9
   },
   "eitchtee/Argus": {
     "commitCount": 141,
