@@ -90,7 +90,7 @@
     "myCommits": 43
   },
   "eitchtee/eitchtee": {
-    "commitCount": 330,
+    "commitCount": 331,
     "additions": 1014,
     "deletions": 238,
     "myCommits": 14
@@ -210,16 +210,16 @@
     "myCommits": 6
   },
   "eitchtee/WYGIWYH": {
-    "commitCount": 1953,
-    "additions": 345862,
-    "deletions": 184364,
-    "myCommits": 1668
+    "commitCount": 1956,
+    "additions": 346944,
+    "deletions": 186424,
+    "myCommits": 1671
   },
   "eitchtee/VCM": {
-    "commitCount": 38,
-    "additions": 4682,
-    "deletions": 1493,
-    "myCommits": 38
+    "commitCount": 39,
+    "additions": 4700,
+    "deletions": 1494,
+    "myCommits": 39
   },
   "eitchtee/teste": {
     "commitCount": 1,
@@ -240,7 +240,7 @@
     "myCommits": 13
   },
   "eitchtee/loterias.json": {
-    "commitCount": 232,
+    "commitCount": 233,
     "additions": 9128523,
     "deletions": 309464,
     "myCommits": 12
@@ -304,5 +304,11 @@
     "additions": 3023,
     "deletions": 0,
     "myCommits": 2
+  },
+  "eitchtee/OpenUlanzi": {
+    "commitCount": 20,
+    "additions": 15463,
+    "deletions": 39,
+    "myCommits": 20
   }
 }
